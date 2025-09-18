@@ -4,7 +4,7 @@
 ## Requirements
 java version "1.8.0_202".\
 This Java version already contains the JavaFX library.\
-Other versions or more recent versions that do not include JavaFX could produce errors when compiling the application.\
+Other versions or more recent versions that do not include JavaFX could produce errors when compiling the application.
 
 ## Description of the exercise
 Lab: Finding a Central Location\
