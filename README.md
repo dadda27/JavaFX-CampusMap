@@ -3,7 +3,7 @@
 
 ## Requirements
 java 8. Eg. version "1.8.0_202".\
-This Java version already comes packed with the JavaFX library.\
+This Java version comes packed with the JavaFX library.\
 Other versions, or more recent versions do not include JavaFX, so they could produce errors when compiling the application.
 
 ## Additional tools
