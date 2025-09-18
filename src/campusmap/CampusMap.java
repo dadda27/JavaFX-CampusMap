@@ -1,7 +1,19 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Copyright (C) 2025 dadda27
+ *
+ * This program is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU General Public License
+ * as published by the Free Software Foundation; either version 2
+ * of the License, or (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with this program; if not, write to the Free Software
+ * Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
  */
 package campusmap;
 
@@ -37,10 +49,10 @@ public class CampusMap extends Application {
         ResidenceHall residence4 = new ResidenceHall(new Residence("Residence 4", 50), Color.YELLOW, 150, 30);
         ResidenceHall residence5 = new ResidenceHall(new Residence("Residence 5", 50), Color.CORAL, 200, 30);
 
-        CenterlPoint allResidencesCentralPoint = new CenterlPoint("All Residences");
+        CenterPoint allResidencesCentralPoint = new CenterPoint("All Residences");
         allResidencesCentralPoint.setVisible(false);
 
-        CenterlPoint myStudyGroupCentralPoint = new CenterlPoint("My Study Group");
+        CenterPoint myStudyGroupCentralPoint = new CenterPoint("My Study Group");
         myStudyGroupCentralPoint.setVisible(false);
 
         //Adds the nodes to root
