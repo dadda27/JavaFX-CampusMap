@@ -1,5 +1,5 @@
 # JavaFX-CampusMap
-### This projects aims to solve the Oracle Academy - JavaFx CampusMap - of the Java Foundation Lab exercise
+### This projects aims to solve the Java Foundation Lab exercise - JavaFx CampusMap - of the Oracle Academy
 
 ## Requirements
 java 8. Eg. version "1.8.0_202".\
@@ -19,7 +19,7 @@ java -jar campusmap.jar
 Move the Residence Halls (Colored Circles) within the application. You can place them within their assigned "Dorms" in the map. 
 Slide the Residence Hall sliders to increase / decrease the population, and check the Center Points moving accordingly.
 
-<img width="1202" height="836" alt="image" src="https://github.com/user-attachments/assets/6c748a35-5c77-43a3-bb7b-a10cf4f6084c" />
+<img width="1002" height="636" alt="image" src="https://github.com/user-attachments/assets/6c748a35-5c77-43a3-bb7b-a10cf4f6084c" />
 
 ## Description of the exercise
 Lab: Finding a Central Location\
