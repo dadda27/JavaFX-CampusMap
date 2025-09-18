@@ -2,7 +2,7 @@
 ### This projects aims to solve the Oracle Academy - JavaFx CampusMap - of the Java Foundation Lab exercise
 
 ## Requirements
-java version "1.8.0_202"
+java version "1.8.0_202".
 This Java version already contains the JavaFX library. 
 Other versions or more recent versions that do not include JavaFX could produce errors when compiling the application.
 
