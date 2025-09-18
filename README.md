@@ -6,9 +6,20 @@ java 8. Eg. version "1.8.0_202".\
 This Java version comes packed with the JavaFX library.\
 Other versions, or more recent versions do not include JavaFX, so they could produce errors when compiling the application.
 
-## Additional tools
+## Additional tools for starting with JavaFX
 JavaFx-Ensemble is a really useful tool that helps a lot when starting with JavaFX.\
 It contains serveral examples with source codes that you can check and add to your application.
+
+## Instructions for the final User
+After building the application with an IDE or via command prompt / terminal (create the .jar file),
+run the .jar file, for example:
+```
+java -jar campusmap.jar
+```
+Move the Residence Halls (Colored Circles) within the application. You can place them within their assigned "Dorms" in the map. 
+Slide the Residence Hall sliders to increase / decrease the population, and check the Center Points moving accordingly.
+
+<img width="1202" height="836" alt="image" src="https://github.com/user-attachments/assets/6c748a35-5c77-43a3-bb7b-a10cf4f6084c" />
 
 ## Description of the exercise
 Lab: Finding a Central Location\
