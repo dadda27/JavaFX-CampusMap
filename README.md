@@ -2,9 +2,11 @@
 ### This projects aims to solve the Java Foundation Lab exercise - JavaFx CampusMap - of the Oracle Academy
 
 ## Requirements
-java 8. Eg. version "1.8.0_202".\
+1)	Java jdk 8, eg.  Java jdk v."1.8.0_202".\
 This Java version comes packed with the JavaFX library.\
-Other versions, or more recent versions do not include JavaFX, so they could produce errors when compiling the application.
+Other versions, or more recent versions do not include JavaFX, so they could produce errors when compiling the application.\
+2)	Git \
+3)	Optional, but strongly recommended: an IDE (eg. Netbeans, Eclipse, VsCode….)\
 
 ## Additional tools for starting with JavaFX
 JavaFx-Ensemble is a really useful tool that helps a lot when starting with JavaFX.\
