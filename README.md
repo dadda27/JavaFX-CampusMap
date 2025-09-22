@@ -4,9 +4,9 @@
 ## Requirements
 1)	Java jdk 8, eg.  Java jdk v."1.8.0_202".\
 This Java version comes packed with the JavaFX library.\
-Other versions, or more recent versions do not include JavaFX, so they could produce errors when compiling the application.\
-2)	Git \
-3)	Optional, but strongly recommended: an IDE (eg. Netbeans, Eclipse, VsCode….)\
+Other versions, or more recent versions do not include JavaFX, so they could produce errors when compiling the application.
+2)	Git
+3)	Optional, but strongly recommended: an IDE (eg. Netbeans, Eclipse, VsCode….)
 
 ## Additional tools for starting with JavaFX
 JavaFx-Ensemble is a really useful tool that helps a lot when starting with JavaFX.\
