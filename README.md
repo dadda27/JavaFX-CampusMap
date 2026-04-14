@@ -20,10 +20,10 @@ java -jar campusmap.jar
 ```
 For further instructions on how to build the application, please see the [Build the app JAR file via command line](https://github.com/dadda27/JavaFX-CampusMap/wiki/Build-the-app-JAR-file-via-command-line)
 
-Move the Residence Halls (Colored Circles) within the Campus map with the mouse or trackpad. You can place them within their assigned "Dorms".\
+Move the Residence Halls (Colored Circles) within the Campus map with the mouse or trackpad. You can place them within their assigned "Dorms" (e.g., Residence 1 in Dorm 1, and so on).\
 Slide the Residence Hall sliders to increase / decrease the population of the Residences.\
 Notice how the Center Points ("My Study Group", "All residences") move accordingly, calculating position X and Y and the distance between the Residence Halls.\
-"My Study Group" represents the calculated central location between a group of residences.
+"My Study Group" represents the calculated central location between a group of residences (e.g., a group of students belonging to residences 2, 3 and 5).
 "All residences" represents the 2D center-of-mass between all residences. 
 
 <img width="1002" height="636" alt="image" src="https://github.com/user-attachments/assets/6c748a35-5c77-43a3-bb7b-a10cf4f6084c" />
