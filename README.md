@@ -18,9 +18,11 @@ run the .jar file, for example:
 ```
 java -jar campusmap.jar
 ```
-Move the Residence Halls (Colored Circles) within the application. You can place them within their assigned "Dorms" in the map.\
-Slide the Residence Hall sliders to increase / decrease the population, and check the Center Points moving accordingly.\
 For further instructions on how to build the application, please see the [Build the app JAR file via command line](https://github.com/dadda27/JavaFX-CampusMap/wiki/Build-the-app-JAR-file-via-command-line)
+
+Move the Residence Halls (Colored Circles) within the Campus map. You can place them within their assigned "Dorms".\
+Slide the Residence Hall sliders to increase / decrease the population of the Residences.\
+Notice how the Center Points ("My Study Group", "All residences") move accordingly, calculating position X and Y and the distance between the Residence Halls.\
 
 <img width="1002" height="636" alt="image" src="https://github.com/user-attachments/assets/6c748a35-5c77-43a3-bb7b-a10cf4f6084c" />
 
